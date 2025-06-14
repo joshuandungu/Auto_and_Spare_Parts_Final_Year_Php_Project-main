@@ -14,21 +14,18 @@
 # My Youtube proper video demo upload  
 https://www.youtube.com/@easycodeproject
 
-# Admin side UserName Or Email 
-Username: usman@usman.com   
-pas: a
+# Admin side  
+Email: steve@gmail.com.com   
+password: 654r636xw
 
-# Customer side UserName Or Email 
-Username: c@c.com
-pas: 123456789
+# Customer side  Email 
+Email: joshuandungu2001@gmail.com
+password: 654r636xw
 
 # Vender side UserName Or Email 
-Username: ab@ab.com 
-pas: 123456789
+Email: hannah@gmail.com 
+password: 654r636xw
 
-# Manager side UserName Or Email 
-Username: m@m.com 
-pas: 123456789
 
-# Auto_and_Spare_Parts_Final_Year_Php_Project
-Our project is ‘Auto and Spare Parts’. We are introducing a website or an application through  which a user can purchase and sell the auto and spare parts of all kinds of vehicles. A user can  create his account as a ‘seller’ or ‘buyer’ to sell or buy vehicle parts. For using this application,  first of all user should register him in the application. A user can not add anything to the cart  without logging into his account. A user can login through a unique I.D and password. A user  can add products to the cart. Indeed, through the help of this website, a user can remove the products from the cart. In addition to this, a user can check promotions and discounts on  products. Anyone can get the parts at home to save the time as well as money. To pay for the  parts, a user can use the PayPal/credit card option or can use the option of Cash on delivery. On  the ‘seller’ side, a ‘seller’ of a car parts can post his product on our website/application to sell his vehicle’s parts. A seller can also create his account and register himself. A seller can post the  product; he can also give discounts on the products. Seller can Update or delete the products.  This Application is free of cost on Play Store. We are providing an online platform for  purchasing or selling the Cars parts on one click.
+# MultiVendor_Online_Gas_Order_And_Delivery_Application_Final_Year_Php_Project
+Our project is ‘Multivendor Online gas order and delivery platform’. We are introducing a website or an application through  which a user can purchase gas products from teir desired vendor/supplier. A user can  create his account as a ‘buyer’ or ‘seller’ to buy or sell gas products. For using this application,  first of all user should register  in the website with valid credentials. A user can not add anything to the cart  without logging into his account. A user can login through a email and password. A user  can add products to the cart. Indeed, through the help of this website, a user can remove the products from the cart. In addition to this, a user can check promotions and discounts on  products. Anyone can get the  at home to save the time as well as money. To pay for the  gas product, a user can use the PayPal/credit card option or can use the option of Cash on delivery. On  the ‘seller’ side, a ‘seller’ of a gas product can post his product on our website/application to sell his gas products . A seller can also create his account and register himself. A seller can post the  product; he can also give discounts on the products. Seller can Update or delete the products. Sellers can also view new orders and payments from customers  This Application is free of cost on Play Store. We are providing an online platform for  purchasing or selling gas products on one click.
